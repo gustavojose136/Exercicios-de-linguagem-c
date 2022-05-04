@@ -1,6 +1,6 @@
 # Exercicios-de-linguagem-c
-# h1 Exercicios de linguagem c, que vão do mais basico ao avançado: 
-Nivel 1 - "Facil"
+# Exercicios de linguagem c, que vão do mais basico ao avançado: 
+## Nivel 1 - "Facil"
 Lista de atividades complementares 01 (estruturas de entrada dados e saída de dados)
 Resolva:
 1-	Construa um algoritmo que mostre a mensagem "Alo mundo" na tela. 
@@ -59,7 +59,7 @@ Quant	Produto		Unit.	Bruto		 Líquido
 99	Porca			0,50	999.99		  999.99
 					Total		9999.99
 
-Nivel 2 - Nivel "Facil-Mediano"
+## Nivel 2 - Nivel "Facil-Mediano"
 Lista de atividades complementares 02 (estrutura condicional e estrutura de seleção)
 
 1.	Faça um programa que peça dois números e imprima o maior deles.
@@ -158,7 +158,7 @@ Aves	não voadoras	tropical	Avestruz
 Répteis	com casco		Tartaruga
 	carnívoros		Crocodilo
 	sem patas		Cobra
-    (imagen da tabela salva em imagens)
+    (imagen da tabela salva em imagens)[Tabela](imagens/tabela%20Nivel%202%20-%20Exercicio%2022%20.png)
 
 23.	Faça um programa para um caixa eletrônico. O programa deverá perguntar ao usuário a valor do saque e depois informar quantas notas de cada valor serão fornecidas. As notas disponíveis serão as de 1, 5, 10, 50 e 100 reais. O valor mínimo é de 10 reais e o máximo de 600 reais. O programa não deve se preocupar com a quantidade de notas existentes na máquina. 
 Exemplo 1: Para sacar a quantia de 256 reais, o programa fornece duas notas de 100, uma nota de 50, uma nota de 5 e uma nota de 1 . 
@@ -190,7 +190,7 @@ Testar com: 326, 300, 100, 320, 310,305, 301, 101, 311, 111, 25, 20, 10, 21, 11,
 19-côvado	para cm (66)
 20-cm para côvado
 
-Nivel 3 - "Medio"
+## Nivel 3 - "Medio"
 Lista de atividades complementares 03 (estrutura de repetição)
 
 1.	Faça um programa que peça dois números inteiros e gere os números inteiros que estão no intervalo entre eles.
@@ -281,8 +281,9 @@ h.	o número de pessoas entrevistadas
 OBS: o número de pessoas entrevistadas é desconhecido
 
 30.	Faça um programa para calcular o seu “Número da Sorte”. A entrada do programa é um nome ( completo, sem espaços entre as palavras ). A saída é um número inteiro, calculado da seguinte forma: Para cada letra do nome, se determina um número de ordem correspondente no alfabeto: a letra A corresponde a 1, a letra B corresponde a 2, e assim por diante . Estes números são somados e a soma resultante é dividida por 9. O resto desta divisão é o número da sorte. 
+[Imagen](/Imagens/tabela%20Nivel%203%20-%20Exercicio%2030%20.png)
 
-Nivel 4 - "Medio-dificil"
+## Nivel 4 - "Medio-dificil"
 Lista de atividades complementares 04 (vetores e matrizes)
 
 1.	Faça um programa que leia um vetor de 5 números inteiros e mostre-os.
@@ -352,7 +353,7 @@ b.	quantas vezes aparecem as vogais
 
 30.	Para um aluno ser considerado aprovado em uma determinada disciplina, é necessário que ele possua nota igual ou superior à média da turma. Sabendo que a turma é composta por 15 alunos e que para cada aluno anotou-se o seu nome e a sua nota, faça um programa para informar o nome dos alunos aprovados.
 
-Nivel 5 - "Dificil"
+## Nivel 5 - "Dificil"
 Lista de atividades complementares 05 (função)
 
 
